@@ -1,0 +1,82 @@
+<chico html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHICO CONSTRUÇÕES</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; padding: 20px; background-color: #e0ffe0; color: #333; }
+        header { background-color: #006400; color: white; text-align: center; padding: 20px; }
+        header img { max-width: 300px; display: block; margin: 0 auto; }
+        section { margin: 20px 0; padding: 15px; background-color: white; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); }
+        footer { background-color: #006400; color: white; text-align: center; padding: 10px; margin-top: 20px; }
+        .logo-container { text-align: center; }
+        .product-images { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+        .product-images img { max-width: 150px; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo-container">
+            <img src="Imagem_do_WhatsApp.jpg" alt="Logo CHICO CONSTRUÇÕES">
+        </div>
+        <h1>CHICO CONSTRUÇÕES</h1>
+        <p><strong style="color: yellow; font-size: 1.5em; background-color: green; padding: 5px; border-radius: 5px;">O barato é aqui!</strong></p>
+    </header>
+    
+    <section>
+        <h2>Sobre Nós</h2>
+        <p>Somos uma loja especializada na venda de materiais para construção e reforma. Oferecemos produtos de alta qualidade e atendimento personalizado para ajudar você a realizar seus projetos.</p>
+    </section>
+    
+    <section>
+        <h2>Produtos e Benefícios</h2>
+        <ul>
+            <li><strong>Tinta Coral, Hipercor/Hidracor:</strong> Alta cobertura, durabilidade e opções ecológicas.</li>
+            <li><strong>Mantas térmicas:</strong> Melhoram o isolamento térmico e reduzem o consumo de energia.</li>
+            <li><strong>Blocos de construção:</strong> Resistência estrutural e isolamento acústico.</li>
+            <li><strong>Caixa d'água:</strong> Armazenamento seguro e durável para água.</li>
+            <li><strong>Ferros:</strong> Fundamentais para a estruturação de edificações seguras.</li>
+            <li><strong>Cimentos:</strong> Essenciais para fundações e alvenaria.</li>
+            <li><strong>Telhas:</strong> Proteção e acabamento estético para sua construção.</li>
+            <li><strong>Areia e brita:</strong> Materiais fundamentais para concreto e acabamentos.</li>
+            <li><strong>Portas e janelas:</strong> Modelos variados para diferentes necessidades.</li>
+            <li><strong>Louças e metais sanitários:</strong> Qualidade e design para banheiros e cozinhas.</li>
+            <li><strong>Ferramentas:</strong> Martelos, furadeiras, serras e muito mais.</li>
+            <li><strong>Elétrica e hidráulica:</strong> Fios, tomadas, canos e conexões.</li>
+        </ul>
+        <div class="product-images">
+            <img src="tinta.jpg" alt="Tinta Coral">
+            <img src="mantas.jpg" alt="Mantas térmicas">
+            <img src="blocos.jpg" alt="Blocos de construção">
+            <img src="caixa_agua.jpg" alt="Caixa d'água">
+            <img src="ferros.jpg" alt="Ferros para construção">
+            <img src="cimento.jpg" alt="Saco de cimento">
+            <img src="telhas.jpg" alt="Telhas cerâmicas">
+            <img src="areia_brita.jpg" alt="Areia e brita">
+            <img src="portas_janelas.jpg" alt="Portas e janelas">
+            <img src="loucas_metal.jpg" alt="Louças e metais sanitários">
+            <img src="ferramentas.jpg" alt="Ferramentas diversas">
+            <img src="eletrica_hidraulica.jpg" alt="Materiais elétricos e hidráulicos">
+        </div>
+    </section>
+    
+    <section>
+        <h2>Contato</h2>
+        <p><strong>Endereços:</strong></p>
+        <p>R. Edmundo Soares Menezes, Nº 195 - Nª. Sª. Aparecida - Salgueiro/PE</p>
+        <p>R. Antonio Parente Alencar, Nº 131 - B. Augusto de Alencar Sampaio</p>
+        <p><strong>Telefones:</strong> (87) 3871-4894 / (87) 99956-5296</p>
+        <p><strong>Horário de funcionamento:</strong></p>
+        <p>Segunda a Sexta: 07:00 - 17:30</p>
+        <p>Sábado: 07:00 - 13:00</p>
+        <p><strong>Acesse nosso site:</strong> <a href="https://chicoconstrucoes.com.br" target="_blank">chicoconstrucoes.com.br</a></p>
+        <p><strong>QR Code para acesso rápido:</strong></p>
+        <img src="qrcode_chico_construcoes.png" alt="QR Code do site CHICO CONSTRUÇÕES" width="150">
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 CHICO CONSTRUÇÕES - Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
